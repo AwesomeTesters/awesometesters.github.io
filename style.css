@@ -37,18 +37,12 @@ html {
 a:link,
 a:visited {
     color: #000000;
-    font-weight: bold;
-    text-decoration: none; }
+    text-decoration: underline; }
 
 a:hover {
     color: #000000;
     text-decoration: underline; }
 
-
-  hr {
-    border-bottom: 2px dotted #FFF999;
-    width: 80%;
-  }
 
  /** Bottom of the page **/
 
