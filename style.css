@@ -11,10 +11,28 @@ html {
       text-align: center;
   }
 
+  h4 {
+      font-size: 20;
+      font-style: bold;
+      line-height: 30%;
+  }
+
   p {
       padding-left: 10px;
       padding-right: 10px;
   }
+
+  .grid-container {
+      display: grid;
+      grid-column-gap: 10px;
+      grid-template-areas:
+      'person listing'
+  }
+
+    .person {
+    width: 100px;
+    border-radius: 50%;
+}
 
   hr {
     border-bottom: 2px dotted #FFF999;
