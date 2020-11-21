@@ -29,10 +29,21 @@ html {
       'person listing'
   }
 
-    .person {
+  .person {
     width: 100px;
     border-radius: 50%;
 }
+
+a:link,
+a:visited {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none; }
+
+a:hover {
+    color: #000000;
+    text-decoration: underline; }
+
 
   hr {
     border-bottom: 2px dotted #FFF999;
@@ -71,4 +82,5 @@ html {
     text-decoration: none; }
 
   .main-footer a:hover {
-    color: #000000; }
+    color: #000000;
+    text-decoration: underline;}
