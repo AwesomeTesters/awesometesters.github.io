@@ -1,0 +1,56 @@
+html {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20;
+  }
+
+  h1 {
+      font-family: 'Dancing Script', cursive;
+      font-size: 112;
+      color: #000000;
+      clear:none;
+      text-align: center;
+  }
+
+  p {
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+
+  hr {
+    border-bottom: 2px dotted #FFF999;
+    width: 80%;
+  }
+
+ /** Bottom of the page **/
+
+ /** Waves **/
+  svg {
+    width: 100%;
+    float:left;
+    clear:none; }
+
+  .main-footer {
+    background-color: #FFF999;
+    width: 97%;
+    color: #black;
+    padding: 20px;
+    display: grid;
+    border-width: 0px;
+    float:left;
+    clear:none;
+    text-align: center; }
+
+  .main-footer h1 {
+    color: #000000; }
+
+  .main-footer p {
+    margin: 0 0 1em 0; }
+
+  .main-footer a:link,
+  .main-footer a:visited {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none; }
+
+  .main-footer a:hover {
+    color: #000000; }
