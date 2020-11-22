@@ -29,3 +29,10 @@ Your help in the project is welcome. Use
 <a href="https://github.com/AwesomeTesters/awesometesters-site/issues">github issues</a> or PRs to 
 this repo to submit quotes and/or nominations of women and non-binary people contributing to software testing
 and quality.
+
+# Other Ideas around the theme
+
+   * Writing articles of awesome testers to reputable magazines
+   * Writing a book about awesome testers
+   * Organizing an awesome testers conference where all speakers are from the list to 
+   allow audiences a chance of hearing them
