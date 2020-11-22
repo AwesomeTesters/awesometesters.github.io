@@ -1,0 +1,39 @@
+Minimum Info
+============
+Name:
+Picture:
+Country:
+Description:
+Twitter:
+
+
+Optional:
+=========
+Start-of-Career Year:
+Start-of-IT-Career Year:
+Affiliation:
+Secondary Country:
+Pronouns:
+Web:
+Blog:
+YouTube:
+Other links:
+Quotes:
+Attributions:
+Causes:
+Awards/Achievements:
+Talks:
+What humane thing we remember them by:
+
+Binaries:
+=========
+Public speaker: Yes/No
+Keynote speaker: Yes/No
+
+Other trackable:
+================
+When added:
+When updated:
+When tweeted:
+
+
