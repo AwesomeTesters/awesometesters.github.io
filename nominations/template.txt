@@ -1,8 +1,8 @@
 Minimum Info
 ============
-Name: Beth Marshall
+Name:
 Picture:
-Country: UK
+Country:
 Description:
 Twitter:
 
