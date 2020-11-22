@@ -1,10 +1,10 @@
 Minimum Info
 ============
-Name:
-Picture:
-Country:
+Name: Julia Pottinger
+Picture: in img/JuliaPottinger.jpg
+Country: Jamaica
 Description:
-Twitter:
+Twitter: @ailuj876
 
 
 Optional:
@@ -12,9 +12,9 @@ Optional:
 Affiliation:
 Secondary Country:
 Pronouns:
-Web:
+Web: https://juliapottinger.com
 Blog:
-YouTube:
+YouTube: https://www.youtube.com/juliapottinger
 Other links:
 Quotes:
 Attributions:
