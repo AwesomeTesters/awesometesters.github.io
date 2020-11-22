@@ -9,6 +9,7 @@ Twitter:
 
 Optional:
 =========
+Affiliation:
 Secondary Country:
 Pronouns:
 Web:
@@ -16,8 +17,15 @@ Blog:
 Other links:
 Quotes:
 Attributions:
+Causes:
 Awards/Achievements:
 Talks:
+What humane thing we remember them by:
+
+Binaries:
+=========
+Public speaker: Yes/No
+Keynote speaker: Yes/No
 
 Other trackable:
 ================
