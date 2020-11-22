@@ -1,10 +1,10 @@
 Minimum Info
 ============
-Name: Julia Pottinger
-Picture: in img/JuliaPottinger.jpg
-Country: Jamaica
+Name: Dorothy Graham
+Picture: in img/DorothyGraham.jpg
+Country: UK
 Description:
-Twitter: @ailuj876
+Twitter:
 
 
 Optional:
@@ -14,9 +14,9 @@ Start-of-IT-Career Year:
 Affiliation:
 Secondary Country:
 Pronouns:
-Web: https://juliapottinger.com
+Web:
 Blog:
-YouTube: https://www.youtube.com/juliapottinger
+YouTube:
 Other links:
 Quotes:
 Attributions:
