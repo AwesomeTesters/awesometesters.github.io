@@ -1,0 +1,43 @@
+Minimum Info
+============
+Name: Aparna Gopalakrishnan
+Picture:
+Country: UK
+Description: BDD Consultant, Trainer, Speaker, Blogger
+Twitter: @aparna2019
+
+
+Optional:
+=========
+Start-of-Career Year:
+Start-of-IT-Career Year:
+Affiliation:
+Secondary Country:
+Pronouns:
+Web:
+Blog: https://blog.testproject.io/
+YouTube:
+Other links: https://www.getxray.app/blog/how-to-align-your-team-with-bdd-automate-testing/
+Quotes:
+Real user feedback is very important
+There is no substitute for real feedback. We have to involve people with disabilities in our teams. We need to get them involved as early as possible in the SDLC (Software Development Life Cycle), ideally from defining the problem stage itself. We do not know how they think or how they feel, and without knowing what they want – we will never be able to solve their problems. Therefore, it is very important to have them in our teams and equally important to get their feedback, suggestions, and inputs. This will help us to make a better world.
+from: https://blog.testproject.io/2020/04/26/accessibility-testing-best-practices/
+
+Attributions:
+Causes:
+Awards/Achievements:  Created Jenkins CI course in Test Automation University
+Talks:
+What humane thing we remember them by:
+
+Binaries:
+=========
+Public speaker: Yes
+Keynote speaker: Yes/No
+
+Other trackable:
+================
+When added: 30/11/2020
+When updated:
+When tweeted:
+
+
